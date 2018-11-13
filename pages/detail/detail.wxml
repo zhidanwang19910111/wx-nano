@@ -1,0 +1,4 @@
+<!--pages/detail/detail.wxml-->
+<video class='detail-video' wx:if="{{detail.is_play}}" src='{{"https://www.koocv.com/h5-view/v/movie/play?url=" + detail.play_url}}'></video>
+<view>{{detail.title}}</view>
+<view>{{detail.genres}}</view>

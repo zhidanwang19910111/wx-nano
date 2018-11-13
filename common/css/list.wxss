@@ -1,0 +1,26 @@
+/* pages/index/index.wxss */
+page{
+  height: 100%;
+}
+.item{
+  display: inline-block;
+  vertical-align: middle;
+  width: 335rpx;
+  margin: 10rpx 20rpx;
+  text-align: center;
+}
+.item image{
+  box-shadow: 0 0 10px #ccc;
+  height: 550rpx;
+  width: 100%;
+}
+.item text{
+  font: 12px/1.5 "微软雅黑";
+}
+
+.loading{
+  text-align: center
+}
+.loading image{
+  width: 100rpx;
+}

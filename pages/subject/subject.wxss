@@ -1,0 +1,7 @@
+/* pages/subject/subject.wxss */
+.wrap{
+  margin-bottom: 50rpx;
+}
+.wrap image{
+  width: 100%;
+}
